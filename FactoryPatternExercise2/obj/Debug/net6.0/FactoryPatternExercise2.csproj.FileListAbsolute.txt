@@ -1,0 +1,5 @@
+/Users/alenvaldez/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.AssemblyReference.cache
+/Users/alenvaldez/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenvaldez/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfoInputs.cache
+/Users/alenvaldez/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfo.cs
+/Users/alenvaldez/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.CoreCompileInputs.cache
